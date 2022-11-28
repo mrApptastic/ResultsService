@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T22:07:45.164Z" agent="5.0 (Windows)" version="20.6.0" etag="tZdQ_o6zjxq-BRBBj4m6" type="github"><diagram id="X5UZFPlHVWyJkntvHDf2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-28T22:08:07.715Z" agent="5.0 (Windows)" version="20.6.0" etag="tlzcV34pyMJHQU_MZzBE" type="github">
+  <diagram id="r5KZlmTNygFENB5CR-KK" name="Page-1">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yowge6EVIaD28DU-wXBI-1" value="Bruger" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yowge6EVIaD28DU-wXBI-2" value="Webapp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yowge6EVIaD28DU-wXBI-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="390" as="sourcePoint" />
+            <mxPoint x="100" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yowge6EVIaD28DU-wXBI-4" value="Brugergrænseflade" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.3077" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="470" as="sourcePoint" />
+            <mxPoint x="80" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yowge6EVIaD28DU-wXBI-5" value="&lt;div&gt;Scoreboard BFF &lt;br&gt;&lt;/div&gt;&lt;div&gt;(API Gateway)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yowge6EVIaD28DU-wXBI-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="389.5" as="sourcePoint" />
+            <mxPoint x="260" y="389.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yowge6EVIaD28DU-wXBI-7" value="Frontend/Backend-Grænseflade" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.3077" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="470" as="sourcePoint" />
+            <mxPoint x="240" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
